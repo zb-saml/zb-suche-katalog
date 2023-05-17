@@ -12,15 +12,15 @@ Willkommen auf der Startseite der Zentralbibliothek Zürich zur Nutzung von Jupy
 ![screenshot_download](screenshot_download.png)
 
 ## Installation 
-Um das Projekt lokal auf Ihrem Computer auszuführen, laden Sie dieses Github-Verzeichnis auf Ihren Computer herunter oder klonen es. 
-Navigieren Sie zum Jupyter Notebook im heruntergeladenen Github-Verzeichnis und öffnen Sie es, um es auszuführen. 
-Zuerst müssen die Module auf Ihrem Computer installiert werden. Kommentieren Sie dazu den Code-Block 'Module installieren" ein und führen Sie den Code-Block aus. 
+Um das Projekt lokal auf Ihrem Computer auszuführen, laden Sie dieses Github-Verzeichnis auf Ihren Computer herunter oder klonen Sie es auf Ihren Computer. 
+Navigieren Sie zur Jupyter Notebook-Datei im heruntergeladenen Github-Verzeichnis und öffnen Sie es, um es auszuführen. 
+Zuerst müssen die Module auf Ihrem Computer installiert werden. Kommentieren Sie dazu den Code-Block "Module installieren" ein und führen Sie den Code-Block aus. 
 
 ## Benutzung
-Nach der Installation aller Modul-Abhängigkeiten auf Ihrem Computer können Sie das Jupyter Notebook ausführen, in dem Sie die Code-Blocks im Jupyter Notebook einzeln nacheinander oder in einem Zug laufen lassen. Öffnen Sie zuletzt Ihren Explorer mit dem Verzeichnis und suchen Sie nach dem Suchergebnis, um sie anzuzeigen. 
+Nach der Installation aller Modul-Abhängigkeiten auf Ihrem Computer können Sie das Jupyter Notebook ausführen, in dem Sie den Code-Block "Module installieren" wieder auskommentieren und alle anderen Code-Blocks im Jupyter Notebook einzeln nacheinander oder in einem Zug durchlaufen lassen. Öffnen Sie zuletzt Ihren Explorer auf Ihrem Computer, navigieren Sie zum Projekt-Verzeichnis und suchen Sie nach dem Suchergebnis, um es anzuzeigen. 
 
 ## Beitrag
-Sie können zu diesem Jupyter Notebook-Projekt beitragen. Dazu können Sie "Issues" auf GitHub öffnen, um Fehler zu melden oder neue Funktionen vorzuschlagen. Wenn Sie Code-Änderungen vorschlagen möchten, erstellen Sie bitte einen Pull Request. 
+Sie können zu diesem Jupyter Notebook-Projekt beitragen. Dazu öffnen Sie "Issues" auf GitHub, um Fehler zu melden oder neue Funktionen vorzuschlagen. Wenn Sie Code-Änderungen vorschlagen möchten, erstellen Sie bitte einen Pull Request. 
 
 ## Lizenz 
-Dieses Jupyter Notebook-Projekt ist unter der MIT-Lizenz veröffentlicht. Lesen Sie die Lizenzdatei für weitere Informationen. 
+Dieses Jupyter Notebook-Projekt wurde unter der MIT-Lizenz veröffentlicht. Lesen Sie die Lizenzdatei für weitere Informationen. 
