@@ -13,14 +13,12 @@ Willkommen auf der Startseite der Zentralbibliothek Zürich zur Nutzung von Jupy
 ![screenshot_download](screenshot_download.png)
 
 ## Installation 
-![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 
 Um das Projekt lokal auf Ihrem Computer auszuführen, laden Sie dieses Github-Verzeichnis auf Ihren Computer herunter oder klonen Sie es auf Ihren Computer. 
 Navigieren Sie zur Jupyter Notebook-Datei im heruntergeladenen Github-Verzeichnis und öffnen Sie es, um es auszuführen. 
 Zuerst müssen die Module auf Ihrem Computer installiert werden. Kommentieren Sie dazu den Code-Block "Module installieren" ein und führen Sie den Code-Block aus. 
 
 ## Benutzung
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 Nach der Installation aller Modul-Abhängigkeiten auf Ihrem Computer können Sie das Jupyter Notebook ausführen, in dem Sie den Code-Block "Module installieren" wieder auskommentieren und alle anderen Code-Blocks im Jupyter Notebook einzeln nacheinander oder in einem Zug durchlaufen lassen. Öffnen Sie zuletzt Ihren Explorer auf Ihrem Computer, navigieren Sie zum Projekt-Verzeichnis und suchen Sie nach dem Suchergebnis, um es anzuzeigen. 
 
