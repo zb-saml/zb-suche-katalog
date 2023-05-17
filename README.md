@@ -8,6 +8,8 @@ Willkommen auf der Startseite der Zentralbibliothek Zürich zur Nutzung von Jupy
 * PDFs über die Inhaltsverzeichnis-Links in der Ergebnisdatei herunterzuladen
 * statistische Analysen von Katalogdaten durchzuführen.
 
+![screenshot_suchresultat](screenshot_suchresultat.png)
+
 ## Installation 
 Um das Projekt lokal auf Ihrem Computer auszuführen, laden Sie dieses Github-Verzeichnis auf Ihren Computer herunter oder klonen es. 
 Navigieren Sie zum Jupyter Notebook im heruntergeladenen Github-Verzeichnis und öffnen Sie es, um es auszuführen. 
