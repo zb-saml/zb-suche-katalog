@@ -1,6 +1,6 @@
 # *Zentralbibliothek Zürich*: Suchabfrage des Bibliothekskatalogs 
 
-![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zb-saml/suche-zb-katalog/main?labpath=Einfache_Suchabfrage_ZB-Katalog.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zb-saml/suche-zb-katalog/main?labpath=Einfache_Suchabfrage_ZB-Katalog.ipynb)
 
 
 Willkommen auf der Startseite der Zentralbibliothek Zürich zur Nutzung von Jupyter Notebooks, die eine Suchabfrage des Bibliothekatalogs ermöglichen! Dies ist das erste Projekt in der Reihe und dient dazu, den Bibliothekskatalog mit Suchbegriffen abzufragen und die Suchresultate in Excel, CSV oder JSON lokal abzuspeichern. Im Kern geht es darum, eine einfache Stichwortsuche auszuführen und aus dem SLSP-Bibliothekskatalog diejenigen Medien als Resultate zurückzubekommen, die zutreffen. Das ermöglicht es den Benutzern, 
