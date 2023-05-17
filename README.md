@@ -3,10 +3,10 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zb-saml/suche-zb-katalog/main?labpath=Einfache_Suchabfrage_ZB-Katalog.ipynb)
 
 Willkommen auf der Startseite der Zentralbibliothek zur Nutzung von Jupyter Notebooks rund um das Thema "Suchabfrage des Bibliothekatalogs". Dies ist das erste Projekt in einer Reihe und dient dazu, den Bibliothekskatalog mit Suchbegriffen abzufragen und die Suchresultate in Excel, CSV oder JSON lokal abzuspeichern. Im Kern geht es darum, eine einfache Stichwortsuche auszuführen und aus dem SLSP-Bibliothekskatalog diejenigen Medien als Resultate zurückzubekommen, die zutreffen. Das ermöglicht es den Benutzern, 
--- schweizweite Katalogdaten als Grundlage für die akademische Forschungsarbeit zu beziehen
--- Medien der Bibliotheken über Swisscovery-Links einfach zu bestellen und auszuleihen
--- PDFs über die Inhaltsverzeichnis-Links in der Ergebnisdatei herunterzuladen
--- statistische Analysen von Katalogdaten durchzuführen.
+* schweizweite Katalogdaten als Grundlage für die akademische Forschungsarbeit zu beziehen
+* Medien der Bibliotheken über Swisscovery-Links einfach zu bestellen und auszuleihen
+* PDFs über die Inhaltsverzeichnis-Links in der Ergebnisdatei herunterzuladen
+* statistische Analysen von Katalogdaten durchzuführen.
 
 ## Installation 
 Um das Projekt lokal auf Ihrem Computer auszuführen, laden Sie dieses Github-Verzeichnis auf Ihren Computer herunter oder klonen es. 
