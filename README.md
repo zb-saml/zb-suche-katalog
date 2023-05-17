@@ -7,7 +7,7 @@
 [![PyPI status](https://img.shields.io/pypi/status/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 
-Willkommen auf der Startseite der Zentralbibliothek Zürich zur Nutzung von Jupyter Notebooks, die eine Suchabfrage des Bibliothekskatalogs ermöglichen! Dies ist das erste Projekt in der Reihe und dient dazu, den Bibliothekskatalog mit Suchbegriffen abzufragen und die **Suchresultate in Excel, CSV oder JSON lokal abzuspeichern**. Im Kern geht es darum, eine **einfache Stichwortsuche** auszuführen und aus dem schweizweiten SLSP-Bibliothekskatalog von mehr als 25 Millionen Einträgen Medien als Resultate zurückzubekommen. Das ermöglicht es den Benutzern, 
+Willkommen auf der Startseite der Zentralbibliothek Zürich zur Nutzung von Jupyter Notebooks, die eine Suchabfrage des Bibliothekskatalogs ermöglichen! Dies ist das erste Projekt in der Reihe und dient dazu, den Bibliothekskatalog mit Suchbegriffen abzufragen und die **Suchresultate in Excel, CSV oder JSON lokal abzuspeichern**. Im Kern geht es darum, eine **einfache Stichwortsuche** auszuführen und aus dem schweizweiten SLSP-Bibliothekskatalog von mehr als 25 Millionen Einträgen die Metadaten der Medien als Resultate zurückzubekommen. Das ermöglicht es den Benutzern, 
 * schweizweite Katalogdaten als Grundlage für die akademische Forschungsarbeit zu beziehen
 * Medien der Bibliotheken über Swisscovery-Links einfach zu bestellen und auszuleihen
 * PDFs über die Inhaltsverzeichnis-Links in der Ergebnisdatei herunterzuladen
