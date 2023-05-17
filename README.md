@@ -1,8 +1,7 @@
 # *Zentralbibliothek Zürich*: Suchabfrage des Bibliothekskatalogs 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zb-saml/suche-zb-katalog/main?labpath=Einfache_Suchabfrage_ZB-Katalog.ipynb)
-![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
-![Python](http://ForTheBadge.com/images/badges/made-with-python.svg)
+
 
 Willkommen auf der Startseite der Zentralbibliothek Zürich zur Nutzung von Jupyter Notebooks, die eine Suchabfrage des Bibliothekatalogs ermöglichen! Dies ist das erste Projekt in der Reihe und dient dazu, den Bibliothekskatalog mit Suchbegriffen abzufragen und die Suchresultate in Excel, CSV oder JSON lokal abzuspeichern. Im Kern geht es darum, eine einfache Stichwortsuche auszuführen und aus dem SLSP-Bibliothekskatalog diejenigen Medien als Resultate zurückzubekommen, die zutreffen. Das ermöglicht es den Benutzern, 
 * schweizweite Katalogdaten als Grundlage für die akademische Forschungsarbeit zu beziehen
@@ -14,6 +13,8 @@ Willkommen auf der Startseite der Zentralbibliothek Zürich zur Nutzung von Jupy
 ![screenshot_download](screenshot_download.png)
 
 ## Installation 
+![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
+
 Um das Projekt lokal auf Ihrem Computer auszuführen, laden Sie dieses Github-Verzeichnis auf Ihren Computer herunter oder klonen Sie es auf Ihren Computer. 
 Navigieren Sie zur Jupyter Notebook-Datei im heruntergeladenen Github-Verzeichnis und öffnen Sie es, um es auszuführen. 
 Zuerst müssen die Module auf Ihrem Computer installiert werden. Kommentieren Sie dazu den Code-Block "Module installieren" ein und führen Sie den Code-Block aus. 
