@@ -13,9 +13,6 @@ Willkommen auf der Startseite der Zentralbibliothek Zürich zur Nutzung von Jupy
 * PDFs über die Inhaltsverzeichnis-Links in der Ergebnisdatei herunterzuladen
 * statistische Analysen von Katalogdaten durchzuführen.
 
-![screenshot_suchresultat](screenshot_suchresultat.png)
-![screenshot_download](screenshot_download.png)
-
 ## Installation 
 
 Um das Projekt lokal auf Ihrem Computer auszuführen, laden Sie dieses Github-Verzeichnis auf Ihren Computer herunter oder klonen Sie es auf Ihren Computer. 
